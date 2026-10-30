@@ -1,6 +1,6 @@
 {
   "name": "ez-php/asyncapi-ui",
-  "version": "2.6.5",
+  "version": "2.7.0",
   "description": "Serves an HTML viewer (AsyncAPI React component from a CDN) for the AsyncAPI document produced by ez-php/asyncapi",
   "type": "library",
   "license": "MIT",
@@ -18,15 +18,15 @@
   },
   "require": {
     "php": "^8.5",
-    "ez-php/contracts": "^2.6.0",
-    "ez-php/http": "^2.6.0"
+    "ez-php/contracts": "^2.7.0",
+    "ez-php/http": "^2.7.0"
   },
   "suggest": {
     "ez-php/asyncapi": "Generates the AsyncAPI document this viewer renders (GET /asyncapi.json)"
   },
   "require-dev": {
-    "ez-php/docker": "^2.6.3",
-    "ez-php/testing-application": "^2.6.0",
+    "ez-php/docker": "^2.7.0",
+    "ez-php/testing-application": "^2.7.0",
     "phpunit/phpunit": "^13.0",
     "phpstan/phpstan": "^2.1",
     "friendsofphp/php-cs-fixer": "^3.94",
