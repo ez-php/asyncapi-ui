@@ -1,6 +1,6 @@
 {
   "name": "ez-php/asyncapi-ui",
-  "version": "2.6.4",
+  "version": "2.6.5",
   "description": "Serves an HTML viewer (AsyncAPI React component from a CDN) for the AsyncAPI document produced by ez-php/asyncapi",
   "type": "library",
   "license": "MIT",
